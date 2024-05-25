@@ -1,4 +1,4 @@
-<h1 align="center">Sevket Umut Gunduz</h1>
+<h1 align="center">Şevket Umut Gündüz</h1>
 <h3 align="center">Back-End, Front-End, AI</h3>
 
 -  📫 How to reach me **sevketumut12@gmail.com**
